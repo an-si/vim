@@ -25,3 +25,6 @@
 [submodule "bundle/vim-trailing-whitespace"]
 	path = bundle/vim-trailing-whitespace
 	url = https://github.com/bronson/vim-trailing-whitespace.git
+[submodule "bundle/jpythonfold-vim"]
+	path = bundle/jpythonfold-vim
+	url = https://github.com/vim-scripts/jpythonfold.vim.git
